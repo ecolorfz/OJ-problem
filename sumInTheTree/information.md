@@ -5,6 +5,11 @@ solution:
 <p align="center">
 <img src="solution.png" width="100%"></img>
 </p>
+<p align="center">
+<img src="solution2.png" width="100%"></img>
+</p>
+
+
 
 tag: dfs,  tree,  greedy
 
